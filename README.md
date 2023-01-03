@@ -5,6 +5,8 @@ test driving the "Quickstart for GitHub Actions" thing.
 # References
 
 1. https://docs.github.com/en/actions/quickstart
+1. https://yamlchecker.com/
+1. https://docs.github.com/en/actions/learn-github-actions/contexts
 
 # Hire Me
 
